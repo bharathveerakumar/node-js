@@ -1,0 +1,13 @@
+{
+  "name": "node.js",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "package.json": "^2.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "scripts": {
+    "DevStart": "nodemon server.js"
+  }
+}
